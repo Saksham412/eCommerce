@@ -1,0 +1,1 @@
+1. send email function isnt working look into it and all the stuff related to it.
